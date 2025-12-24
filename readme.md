@@ -1,7 +1,7 @@
 <div align=center>
 
 <img src="./public/media/logo.svg" height="60px">
-<h1>Lunaar V7</h1>
+<h1>The Sunken Fate V3</h1>
 <h4 align="center">the best unblocked proxy.</h4>
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1dh3v.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
@@ -10,12 +10,10 @@
 
 ![Lunaar image](https://api.microlink.io/?url=https%3A%2F%2Flunaar.org&screenshot=true&embed=screenshot.url)
 
-> [!IMPORTANT]
-> If you fork Lunaar, please give it a star.
+star lunaar to support them
 
-Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
 
-## V7 Features
+## V3 Features
 
 - Modern UI
 - Fast Built-in Proxy
@@ -27,16 +25,11 @@ Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
 - Panic Key
 - And much more!
 
-## Demo
-
-[lunaar.org](https://lunaar.org) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1dh3v.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
-
-[Lunaar Docs](https://docs.lunaar.org)
 
 ## Deployment
 
 > [!IMPORTANT]
-> You cannot deploy Lunaar to a static host, such as GitHub Pages or Cloudflare Pages.
+> You cannot deploy The Sunken Fate to a static host, such as GitHub Pages or Cloudflare Pages.
 
 ## Deploying your own version of lunaar
 
