@@ -56,4 +56,4 @@ GROQ_API_KEY=your_actual_groq_api_key_here
 ## Issues
 
 > [!NOTE]
-> If you encounter issues, create an [issue on GitHub](https://github.com/parcoil/lunaar.org/issues/new) or join the [Discord Server](https://dsc.gg/parcoil).
+> If you encounter issues, create an [issue on GitHub](https://github.com/parcoil/lunaar.org/issues/new) or join the [Discord Server](https://discord.gg/VPaGPPErS).
