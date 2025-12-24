@@ -35,7 +35,7 @@ star lunaar to support them
 
 [Click here to host lunaar](https://github.com/parcoil/lunaar-deploy)
 
-# 🤖 Luna AI
+#  AI
 
 ### 1. Get a Groq API Key
 
